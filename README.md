@@ -14,3 +14,6 @@ Cmd to run and report:
           npx playwright test --reporter=html
 
           
+Test Execution results:
+
+![image](https://github.com/user-attachments/assets/d7356375-7e77-4a74-9bb0-eddbfb36eb17)
